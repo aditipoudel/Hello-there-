@@ -1,0 +1,21 @@
+body{
+    background-color: darksalmon;
+    background-image: url('img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body h3{
+    color: white;
+}
+
+button{
+    background-color: darkseagreen;
+    color: solid black;
+    border: 5px;
+    border-radius: 20%;
+    border-color: white;
+    
+    
+    
+}
